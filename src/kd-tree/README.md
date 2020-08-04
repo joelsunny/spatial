@@ -8,4 +8,4 @@ short for k dimensional tree. Generalization of binary tree to store higher dime
 
 ## Visualization
 
-![kd-tree for k =  3](out.svg)
+![kd-tree for k = 3](out.svg)
