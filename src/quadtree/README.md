@@ -7,4 +7,4 @@ Quadtree implementation
 
 # Quadtree
 ## Range Query
-![Result of range query on a quad tree](out.png)
+![Result of range query on a quad tree](out.svg)
