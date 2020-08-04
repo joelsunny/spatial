@@ -30,6 +30,7 @@ func TestNode(t *testing.T) {
 	canvas.Start(width, height)
 	drawNode(canvas, n)
 	canvas.End()
+
 }
 
 func TestVec(t *testing.T) {
