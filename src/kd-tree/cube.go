@@ -76,9 +76,9 @@ func drawNode(canvas *svg.SVG, n *node) {
 	case x:
 		color = "green"
 	case y:
-		color = "white"
+		color = "blue"
 	case z:
-		color = "yellow"
+		color = "red"
 	}
 	drawCube(canvas, n.region, color)
 	if n.containspoint {

@@ -7,32 +7,32 @@
 <polygon points="50,130 178,2 434,2 306,130" style="fill:none; stroke:green" />
 <polygon points="306,130 434,2 434,258 306,386" style="fill:none; stroke:green" />
 <circle cx="75" cy="175" r="4" style="fill:green; stroke:green" />
-<rect x="50" y="130" width="20" height="256" style="fill:none; stroke:white" />
-<polygon points="50,130 178,2 198,2 70,130" style="fill:none; stroke:white" />
-<polygon points="70,130 198,2 198,258 70,386" style="fill:none; stroke:white" />
-<rect x="70" y="130" width="236" height="256" style="fill:none; stroke:white" />
-<polygon points="70,130 198,2 434,2 306,130" style="fill:none; stroke:white" />
-<polygon points="306,130 434,2 434,258 306,386" style="fill:none; stroke:white" />
+<rect x="50" y="130" width="20" height="256" style="fill:none; stroke:blue" />
+<polygon points="50,130 178,2 198,2 70,130" style="fill:none; stroke:blue" />
+<polygon points="70,130 198,2 198,258 70,386" style="fill:none; stroke:blue" />
+<rect x="70" y="130" width="236" height="256" style="fill:none; stroke:blue" />
+<polygon points="70,130 198,2 434,2 306,130" style="fill:none; stroke:blue" />
+<polygon points="306,130 434,2 434,258 306,386" style="fill:none; stroke:blue" />
 <circle cx="165" cy="215" r="4" style="fill:green; stroke:green" />
-<rect x="70" y="130" width="236" height="100" style="fill:none; stroke:yellow" />
-<polygon points="70,130 198,2 434,2 306,130" style="fill:none; stroke:yellow" />
-<polygon points="306,130 434,2 434,102 306,230" style="fill:none; stroke:yellow" />
+<rect x="70" y="130" width="236" height="100" style="fill:none; stroke:red" />
+<polygon points="70,130 198,2 434,2 306,130" style="fill:none; stroke:red" />
+<polygon points="306,130 434,2 434,102 306,230" style="fill:none; stroke:red" />
 <circle cx="320" cy="100" r="4" style="fill:green; stroke:green" />
 <rect x="70" y="130" width="236" height="100" style="fill:none; stroke:green" />
 <polygon points="70,130 170,30 406,30 306,130" style="fill:none; stroke:green" />
 <polygon points="306,130 406,30 406,130 306,230" style="fill:none; stroke:green" />
 <circle cx="295" cy="135" r="4" style="fill:green; stroke:green" />
-<rect x="70" y="130" width="210" height="100" style="fill:none; stroke:white" />
-<polygon points="70,130 170,30 380,30 280,130" style="fill:none; stroke:white" />
-<polygon points="280,130 380,30 380,130 280,230" style="fill:none; stroke:white" />
+<rect x="70" y="130" width="210" height="100" style="fill:none; stroke:blue" />
+<polygon points="70,130 170,30 380,30 280,130" style="fill:none; stroke:blue" />
+<polygon points="280,130 380,30 380,130 280,230" style="fill:none; stroke:blue" />
 <circle cx="265" cy="135" r="4" style="fill:green; stroke:green" />
-<rect x="280" y="130" width="26" height="100" style="fill:none; stroke:white" />
-<polygon points="280,130 380,30 406,30 306,130" style="fill:none; stroke:white" />
-<polygon points="306,130 406,30 406,130 306,230" style="fill:none; stroke:white" />
+<rect x="280" y="130" width="26" height="100" style="fill:none; stroke:blue" />
+<polygon points="280,130 380,30 406,30 306,130" style="fill:none; stroke:blue" />
+<polygon points="306,130 406,30 406,130 306,230" style="fill:none; stroke:blue" />
 <rect x="170" y="30" width="236" height="100" style="fill:none; stroke:green" />
 <polygon points="170,30 198,2 434,2 406,30" style="fill:none; stroke:green" />
 <polygon points="406,30 434,2 434,102 406,130" style="fill:none; stroke:green" />
-<rect x="70" y="230" width="236" height="156" style="fill:none; stroke:yellow" />
-<polygon points="70,230 198,102 434,102 306,230" style="fill:none; stroke:yellow" />
-<polygon points="306,230 434,102 434,258 306,386" style="fill:none; stroke:yellow" />
+<rect x="70" y="230" width="236" height="156" style="fill:none; stroke:red" />
+<polygon points="70,230 198,102 434,102 306,230" style="fill:none; stroke:red" />
+<polygon points="306,230 434,102 434,258 306,386" style="fill:none; stroke:red" />
 </svg>
